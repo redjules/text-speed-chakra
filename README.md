@@ -1,3 +1,13 @@
+# Text speed
+# Project description
+In this project, I've built a modern text speed app  using Chakra UI, a modern component library for React.
+
+# Snapshot
+
+
+<img width="709" alt="Screenshot 2023-09-15 at 11 08 53" src="https://github.com/redjules/text-speed-chakra/assets/106017493/1647e264-f6db-437e-8101-70b86c9e8316">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
